@@ -1,0 +1,15 @@
+@charset "utf-8";
+.wrapper {
+	margin-left: auto;
+	margin-right: auto;
+	width: 980px;
+}
+.header {
+	height: 108px;
+	border-bottom: 1px solid #000000;
+}
+.nav {
+	border-right: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+}
+
